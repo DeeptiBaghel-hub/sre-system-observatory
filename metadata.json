@@ -1,0 +1,6 @@
+{
+  "name": "Real-Time System Monitoring & AI Prediction",
+  "description": "Live CPU, memory, disk, and network metrics tracker with real-time WebSocket telemetry, statistical anomaly detection, and AI failure forecasting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
